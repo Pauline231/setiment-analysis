@@ -62,3 +62,4 @@ wheel==0.45.1
 wrapt==1.17.2
 flask
 gunicorn
+flask_cors
